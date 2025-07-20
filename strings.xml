@@ -1,0 +1,10 @@
+
+<resources>
+    <string name="app_name">Risk Manager</string>
+    <string-array name="asset_array">
+        <item>EUR/USD</item>
+        <item>GBP/USD</item>
+        <item>USD/JPY</item>
+        <item>XAU/USD</item>
+    </string-array>
+</resources>
